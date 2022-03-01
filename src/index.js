@@ -10,6 +10,9 @@ import CurrentUserCheker from "components/currentUserCheker/currentUserCheker";
 
 
 
+
+
+
 const App = () => {
   return (
     <CurrentUserProvider>
