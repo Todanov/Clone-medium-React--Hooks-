@@ -6,3 +6,4 @@ Creating an app with hooks is very interesting, but there is no architecture lik
 Thank you to the developers of React JS😇😇😇
 
 Просто скачать репозторий и запустить!😇😇😇
+
