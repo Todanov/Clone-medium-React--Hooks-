@@ -8,6 +8,8 @@ import TopBar from "components/topBar/toBar";
 import { CurrentUserProvider } from "contexts/currentUser";
 import CurrentUserCheker from "components/currentUserCheker/currentUserCheker";
 
+
+
 const App = () => {
   return (
     <CurrentUserProvider>
